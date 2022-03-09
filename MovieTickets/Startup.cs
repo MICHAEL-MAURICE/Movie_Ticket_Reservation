@@ -95,6 +95,7 @@ namespace MovieTickets
 
             //Database Data Initializer
             DBInitializer.SeedDB(app).Wait();
+
             DBInitializer.CreateUsersAndRolesAsync(app).Wait();
         }
     }
