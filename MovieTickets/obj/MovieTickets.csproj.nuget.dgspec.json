@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ITI Project\\Movie_Ticket_Reservation\\MovieTickets\\MovieTickets.csproj": {}
+    "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\c#\\MVC\\github\\Movie_Ticket_Reservation\\MovieTickets\\MovieTickets.csproj": {}
   },
   "projects": {
-    "C:\\ITI Project\\Movie_Ticket_Reservation\\MovieTickets\\MovieTickets.csproj": {
+    "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\c#\\MVC\\github\\Movie_Ticket_Reservation\\MovieTickets\\MovieTickets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ITI Project\\Movie_Ticket_Reservation\\MovieTickets\\MovieTickets.csproj",
+        "projectUniqueName": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\c#\\MVC\\github\\Movie_Ticket_Reservation\\MovieTickets\\MovieTickets.csproj",
         "projectName": "MovieTickets",
-        "projectPath": "C:\\ITI Project\\Movie_Ticket_Reservation\\MovieTickets\\MovieTickets.csproj",
-        "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\ITI Project\\Movie_Ticket_Reservation\\MovieTickets\\obj\\",
+        "projectPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\c#\\MVC\\github\\Movie_Ticket_Reservation\\MovieTickets\\MovieTickets.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\c#\\MVC\\github\\Movie_Ticket_Reservation\\MovieTickets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,7 +46,7 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.13, )"
+              "version": "[5.0.14, )"
             },
             "Microsoft.CodeAnalysis.Analyzers": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -60,11 +60,11 @@
             },
             "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
-              "version": "[5.0.13, )"
+              "version": "[5.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.13, )"
+              "version": "[5.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer.Design": {
               "target": "Package",
@@ -74,7 +74,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.13, )"
+              "version": "[5.0.14, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
