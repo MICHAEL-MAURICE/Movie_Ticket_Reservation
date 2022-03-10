@@ -1,7 +1,7 @@
 # Movie_Ticket_Reservation
 
 
-I am so happy to share our movie Tickets Reservation system </br>
+
 database diagram:- https://lnkd.in/gM2PiTRt</br>
 GitHub repo:- https://lnkd.in/gCZEUg46</br>
 Full Video:- https://lnkd.in/gbbB-8pD</br>
